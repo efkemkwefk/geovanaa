@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
